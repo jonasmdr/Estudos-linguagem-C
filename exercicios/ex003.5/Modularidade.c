@@ -20,7 +20,7 @@ void exibirMedia() {
 int main() {
  
     entradaDados();
-    media = calcularMedia();
+    //media = calcularMedia();
     exibirMedia();
  
     return 0;
