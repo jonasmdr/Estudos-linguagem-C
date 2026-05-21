@@ -30,3 +30,6 @@ int main() {
 
 Permite focar os aspectos mais importantes de um problema, ignorando os detalhes irrelevantes. Isso é importante para lidar com a complexidade.
 Usando o exemplo do cálculo da média das temperaturas, em vez de se preocupar com os detalhes de como a entrada de dados é feita, você pode criar uma função entradaDados que abstrai esse processo. Assim, se precisar modificar a maneira como os dados são coletados, basta alterar essa função, mantendo o restante do código inalterado. */
+
+
+/* O uso de pseudocódigo e fluxogramas é fundamental para o planejamento de soluções de problemas complexos. Eles ajudam a visualizar a lógica do programa, identificar possíveis problemas antecipadamente e comunicar a lógica para outras pessoas de maneira clara e concisa. Utilizando essas ferramentas, você estará mais bem preparado para desenvolver programas eficientes e bem estruturados. */
