@@ -14,7 +14,6 @@ int main() {
 }
 
 /*
-
 A saída mostra que a variável largePositiveNumber, declarada como unsigned long int, armazena corretamente um valor extremamente grande (4000000000). Utilizando o modificador unsigned long, a faixa de valores possíveis para armazenamento é ampliada, evitando problemas de overflow e garantindo que valores positivos muito grandes sejam armazenados e manipulados corretamente.
 */
 
